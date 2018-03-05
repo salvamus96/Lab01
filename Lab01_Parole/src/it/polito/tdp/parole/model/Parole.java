@@ -18,6 +18,7 @@ public class Parole {
 	}
 	
 	public void reset() {
+		// TODO
 	}
 
 }
